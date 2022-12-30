@@ -1,3 +1,5 @@
+These are small helper scripts developed for personal use, thus not much effort was put forth into making them user-agnostic.
+
 ## cidrCalc.py
 - Small utility script that takes in a CIDR block as an argument and returns the first and last IP of the range. Can optionally iterate through the range to print every IP.
 
